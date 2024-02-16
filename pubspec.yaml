@@ -1,0 +1,10 @@
+name: dartsort
+description: Dart Sorting as extension of Lists
+version: 1.0.0
+homepage: https://github.com/vtotiv/dartsort
+
+environment:
+  sdk: ^3.2.0
+
+dev_dependencies:
+  test: ^1.25.0
