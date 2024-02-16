@@ -1,4 +1,4 @@
-# Sorting as extionsion on Dart Lists
+# Sorting as extension on Dart Lists
 
 Dartsort introduces sorting algorithms directly as extension on Lists.
 It aims to have sorting algorithms directly interchangeably with `dart:core` current sort method.
